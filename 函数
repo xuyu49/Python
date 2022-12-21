@@ -1,0 +1,15 @@
+函数  描述
+abs(number) 绝对值
+bytes(string, encoding[, errors]) 字符串按照指定编码转换，并制定错误处理方式
+cmatch.sqrt(number) 平方根,可用于负数
+float(object) 对象转换为浮点数
+help(object) 提供交互式帮助
+int(object) 对象转换为整数
+match.ceil(number) 向上取整
+match.floor(number) 向下取整
+match.sqrt(number) 平方根,不能用于负数
+pow(x, y[, z]) x的y次方对X求模的结果
+print(object, ...) 将对象打印出来，并用空格分隔
+repr(object) 返回字符串
+round(number[, ndigits]) 四舍五入
+str(object) 将对象转换为字符串
