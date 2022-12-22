@@ -22,3 +22,4 @@ sorted(seq) 返回一个有序列表
 tuple(seq) 转换为元组
 string.capwords(s[, sep]) 首字母大写
 ascii(obj) 转ascii码
+dict(seq) 转字典
