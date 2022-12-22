@@ -20,3 +20,5 @@ min(args) 返回一组参数中最小值
 reversed(seq) 反向迭代序列
 sorted(seq) 返回一个有序列表
 tuple(seq) 转换为元组
+string.capwords(s[, sep]) 首字母大写
+ascii(obj) 转ascii码
