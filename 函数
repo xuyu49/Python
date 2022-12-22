@@ -13,3 +13,10 @@ print(object, ...) 将对象打印出来，并用空格分隔
 repr(object) 返回字符串
 round(number[, ndigits]) 四舍五入
 str(object) 将对象转换为字符串
+len(seq) 返回序列长度
+list(seq) 序列转换为列表
+max(args) 返回一组参数中最大值
+min(args) 返回一组参数中最小值
+reversed(seq) 反向迭代序列
+sorted(seq) 返回一个有序列表
+tuple(seq) 转换为元组
